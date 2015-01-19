@@ -1,0 +1,69 @@
+/* 2012 - 2013 Fonts MEOW MEOW */
+
+
+
+@font-face {
+    font-family: 'LatoBlack';
+    src: url('Lato-Bla-webfont.eot');
+    src: url('Lato-Bla-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lato-Bla-webfont.woff') format('woff'),
+         url('Lato-Bla-webfont.ttf') format('truetype'),
+         url('Lato-Bla-webfont.svg#LatoBlack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'LatoBold';
+    src: url('Lato-Bol-webfont.eot');
+    src: url('Lato-Bol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lato-Bol-webfont.woff') format('woff'),
+         url('Lato-Bol-webfont.ttf') format('truetype'),
+         url('Lato-Bol-webfont.svg#LatoBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('Lato-Reg-webfont.eot');
+    src: url('Lato-Reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lato-Reg-webfont.woff') format('woff'),
+         url('Lato-Reg-webfont.ttf') format('truetype'),
+         url('Lato-Reg-webfont.svg#LatoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LatoLightItalic';
+    src: url('Lato-LigIta-webfont.eot');
+    src: url('Lato-LigIta-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lato-LigIta-webfont.woff') format('woff'),
+         url('Lato-LigIta-webfont.ttf') format('truetype'),
+         url('Lato-LigIta-webfont.svg#LatoLightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LatoLight';
+    src: url('Lato-Lig-webfont.eot');
+    src: url('Lato-Lig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lato-Lig-webfont.woff') format('woff'),
+         url('Lato-Lig-webfont.ttf') format('truetype'),
+         url('Lato-Lig-webfont.svg#LatoLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
